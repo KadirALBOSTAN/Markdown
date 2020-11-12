@@ -1,6 +1,3 @@
-<center>
-![](https://drive.google.com/file/d/1nqzRG-qRqB0dRgVID9Xs5xYTz9uCyies/view?usp=sharing)
-</center>
 Kadir ALBOSTAN
 [Mon GitHub](https://github.com/KadirWCS)
 [Mon LinkedIn](https://www.linkedin.com/in/kadir-albostan-038753163/)
